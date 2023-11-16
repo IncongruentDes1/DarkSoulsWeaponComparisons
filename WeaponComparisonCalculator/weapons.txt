@@ -1,0 +1,141 @@
+Weapon Name:Type:Attack Type:Physical Damage:Magic Damage :Fire Damage:Lightning Damage:cbonus (special action?):Strength Requirement:Dex Requirement:Intelligence Requirement:Faith Requirement:Durability
+Dagger:Dagger:Slash/Thrust:56:0:0:0:131:5:8:0:0:200
+Ghost Blade:Dagger:Slash Thrust Combo:110:0:0:0:127:5:0:0:0:100
+Bandit's Knife:Dagger:Slash:56:0:0:0:147:6:12:0:0:200
+Parrying Dagger:Dagger:Slash/Thrust:54:0:0:0:131:5:14:0:0:200
+Priscilla's Dagger:Dagger:Slash Combo:80:0:0:0:100:6:20:0:0:100
+Dark Silver Tracer:Dagger:Slash/Thrust:75:0:0:0:160:6:25:0:0:120
+Straight sword Hilt:Straight Sword:Regular:20:0:0:0:100:6:6:0:0:200
+Broken Straight Sword:Straight Sword:Regular Thrust:40:0:0:0:100:8:8:0:0:200
+Broadsword:Straight Sword:Regular:82:0:0:0:100:10:10:0:0:200
+Shortsword:Straight Sword:Regular Thrust:78:0:0:0:100:8:10:0:0:200
+Longsword:Straight Sword:Regular Thrust:80:0:0:0:100:10:10:0:0:200
+Barbed Straight Sword:Straight Sword:Thrust:80:0:0:0:100:16:16:0:0:160
+Sunlight Straight Sword:Straight Sword:Regular Thrust:82:0:0:0:100:12:12:0:0:240
+Balder side Sword:Straight Sword:Regular Thrust:80:0:0:0:100:10:14:0:0:120
+Astora's Straight Sword:Straight Sword:Regular Thrust:80:80:0:0:100:10:10:0:14:160
+Silver Knight Straight Sword:Straight Sword:Regular:175:0:0:0:100:16:22:0:0:300
+Drake Sword:Straight Sword:Regular Special:200:0:0:0:100:16:10:0:0:360
+Darksword:Straight Sword:Regular:82:0:0:0:100:16:16:0:0:200
+Crystal Straight Sword:Straight Sword:Regular Thrust:145:0:0:0:100:16:22:0:0:60
+Bastard Sword:Great Sword:Regular:105:0:0:0:100:16:10:0:0:200
+Black Knight Sword:Great Sword:Regular Thrust:220:0:0:0:100:20:18:0:0:300
+Claymore:Great Sword:Regular Thrust:103:0:0:0:100:16:10:0:0:200
+Flamberge:Great Sword:Slash:100:0:0:0:100:16:14:0:0:160
+Crystal Greatsword:Great Sword:Regular:180:0:0:0:100:20:10:0:0:60
+Man-Serpent Greatsword:Great Sword:Regular:110:0:0:0:100:24:0:0:0:300
+Great Lord Greatsword:Great Sword:Regular:231:0:0:0:100:20:10:0:0:400
+Moonlight Greatsword:Great Sword:Regular Special:0:132:0:0:100:16:10:28:0:300
+Greatsword of Artorias:Great Sword:Regular Thrust:120:85:0:0:100:24:18:20:20:400
+Greatsword of Artorias(cursed):Great Sword:Regular Thrust:158:0:0:0:100:24:18:18:18:400
+Stone Greatsword:Great Sword:Regular Special:148:100:0:0:100:40:10:0:0:800
+Abyss Greatsword:Great Sword:Regular:160:0:0:0:100:22:18:18:18:300
+Obsidian Greatsword:Great Sword:Regular Special:320:0:0:0:100:20:16:0:0:350
+Dragon Greatsword:Ultra Greatswords:Regular Special:390:0:0:0:100:50:10:0:0:400
+Greatsword:Ultra Greatswords:Regular Thrust:130:0:0:0:100:28:10:0:0:200
+Black Knight Greatsword:Ultra Greatswords:Regular Thrust:220:0:0:0:100:32:18:0:0:300
+Zweihander:Ultra Greatswords:Regular:130:0:0:0:100:24:10:0:0:200
+Demon Great Machete:Ultra Greatswords:Regular:133:0:0:0:100:40:0:0:0:600
+Scimitar:Curved Swords:Slash:80:0:0:0:100:7:13:0:0:160
+Shotel:Curved Swords:Slash Special:82:0:0:0:100:9:14:0:0:120
+Falchion:Curved Swords:Slash:82:0:0:0:100:9:13:0:0:160
+Quelaag's Furysword:Curved Swords:Slash:60:0:180:0:100:11:13:0:0:600
+Painting Guardian Sword:Curved Swords:Slash Combo:76:0:0:0:100:7:20:0:0:100
+Jagged Ghost Blade:Curved Swords:Slash Thrust Combo:155:0:0:0:100:7:0:0:0:100
+Gold Tracer:Curved Swords:Slash:130:0:0:0:100:9:25:0:0:240
+Uchigatana:Katanas:Slash Thrust:90:0:0:0:100:14:14:0:0:80
+Washing Pole:Katanas:Slash Thrust:90:0:0:0:100:20:16:0:0:60
+Laito:Katanas:Slash:88:0:0:0:100:14:20:0:0:80
+Chaos Blade:Katanas:Slash:133:0:0:0:100:16:14:0:0:120
+Server:Curved Greatswords:Slash:107:0:0:0:100:24:13:0:0:150
+Murakumo:Curved Greatswords:Slash:113:0:0:0:100:28:13:0:0:180
+Gravelord Sword:Curved Greatswords:Slash Thrust:265:0:0:0:100:24:13:0:0:600
+Rapier:Piercing Swords:Thrust:73:0:0:0:110:7:12:0:0:150
+Estoc:Piercing Swords:Regular Thrust:75:0:0:0:100:10:12:0:0:150
+Mail Breaker:Piercing Swords:Thrust:57:0:0:0:120:5:12:0:0:200
+Ricard's Rapier:Piercing Swords:Thrust Combo:70:0:0:0:100:8:20:0:0:100
+Velka's Rapier:Piercing Swords:Regular Thrust Combo:62:104:0:0:100:8:16:16:0:130
+Hand Axe:Axes:Regular:80:0:0:0:100:8:8:0:0:250
+Gargoyle Tail Axe:Axes:Regular:93:0:0:0:100:14:14:0:0:150
+Battle Axe:Axes:Regular:95:0:0:0:100:12:8:0:0:250
+Butcher Knife:Axes:Regular:90:0:0:0:100:24:0:0:0:250
+Crescent Axe:Axes:Regular:115:115:0:0:100:18:12:0:16:180
+Golem Axe:Axes:Regular Special:155:0:0:0:100:36:8:0:0:600
+Demon's Greataxe:Greataxe:Regular:114:0:0:0:100:46:0:0:0:600
+Greataxe:Greataxe:Regular:140:0:0:0:100:32:8:0:0:230
+Dragon King Greataxe:Greataxe:Regular Special:380:0:0:0:100:50:8:0:0:400
+Black Knight Greataxe:Greataxe:Regular:229:0:0:0:100:36:18:0:0:300
+Stone Greataxe:Greataxe:Regular:190:0:0:0:100:48:10:0:0:700
+Club:Hammers:Strike:87:0:0:0:100:10:0:0:0:250
+Reinforced Club:Hammers:Strike:97:0:0:0:100:12:0:0:0:100
+Mace:Hammers:Strike:91:0:0:0:100:12:0:0:0:250
+Morning Star:Hammers:Strike:83:0:0:0:100:11:0:0:0:180
+Warpick:Hammers:Thrust:91:0:0:0:100:11:10:0:0:220
+Pickaxe:Hammers:Thrust:89:0:0:0:100:14:0:0:0:250
+Blacksmith Hammer:Hammers:Strike:87:0:0:0:100:14:0:0:0:250
+Blacksmith Giant Hammer:Hammers:Strike:120:0:0:200:100:16:0:0:0:250
+Hammer of Vamos:Hammers:Strike:105:0:64:0:100:14:0:0:0:250
+Demon's Great Hammer:Great Hammers:Strike:138:0:0:0:100:46:0:0:0:600
+Great Club:Great Hammers:Strike:135:0:0:0:100:28:0:0:0:250
+Large Club:Great Hammers:Strike:120:0:0:0:100:26:0:0:0:250
+Dragon Tooth:Great Hammers:Strike:290:0:0:0:100:40:0:0:0:999
+Smough's Hammer:Great Hammers:Strike:300:0:0:0:100:58:0:0:0:600
+Grant:Great Hammers:Strike Special:130:130:0:0:100:50:0:0:30:600
+Caestus:Fist and Claw:Strike:66:0:0:0:100:5:8:0:0:300
+Claws:Fist and Claw:Slash:72:0:0:0:100:6:14:0:0:150
+Dragon Bone Fist:Fist and Claw:Strike:95:0:0:0:100:20:0:0:0:999
+Dark Hand:Fist and Claw:Strike Special:200:0:0:0:100:0:0:0:0:999
+Spear:Spears:Thrust:80:0:0:0:100:11:10:0:0:180
+Winged Spear:Spears:Thrust:86:0:0:0:100:13:15:0:0:140
+Demon's Spear:Spears:Thrust:100:0:0:120:100:12:10:0:0:400
+Pike:Spears:Thrust:86:0:0:0:100:24:10:0:0:180
+Dragonslayer spear:Spears:Thrust Special:90:0:0:60:100:24:24:0:0:300
+Partizan:Spears:Regular Thrust:80:0:0:0:100:13:12:0:0:160
+Channeler's Trident:Spears:Thrust Special:70:104:0:0:100:16:16:24:0:240
+Silver Knight Spear:Spears:Regular Thrust:155:0:0:0:100:16:22:0:0:300
+Moonlight Butterfly Horn:Spears:Thrust:0:110:0:0:100:12:0:14:0:160
+Four pronged Plow:Spears:Thrust:75:0:0:0:100:15:12:0:0:300
+Halberd:Halberds:Regular Thrust:110:0:0:0:100:16:12:0:0:200
+Gargoyle's Halberd:Halberds:Regular:115:0:0:0:100:16:12:0:0:200
+Titanite Catch Pole:Halberds:Regular:120:145:0:0:100:16:14:0:0:600
+Black Knight Halberd:Halberds:Slash:245:0:0:0:100:32:18:0:0:300
+Great Scythe:Halberds:Slash:100:0:0:0:100:14:14:0:0:130
+Lifehunt Scythe:Halberds:Slash:165:0:0:0:100:16:14:0:0:100
+Scythe:Halberds:Slash:110:0:0:0:100:14:12:0:0:200
+Lucerne:Halberds:Thrust:110:0:0:0:100:15:12:0:0:200
+Giant's Halbert:Halberds:Regular Thrust:110:0:0:135:100:36:12:0:0:300
+Whip:Whips:Regular:80:0:0:0:100:7:14:0:0:200
+Notched Whip:Whips:Regular:76:0:0:0:100:8:16:0:0:200
+Guardian Tail:Whips:Regular:84:0:0:0:100:15:10:0:0:250
+Short Bow:Bows:N/A Range 50:31:0:0:0:100:7:12:0:0:100
+Longbow:Bows:N/A Range 50:36:0:0:0:100:9:14:0:0:100
+Composite Bow:Bows:N/A Range 38:55:0:0:0:100:11:12:0:0:100
+Black Bow of Pharis:Bows:N/A Range 65:34:0:0:0:100:9:18:0:0:100
+Darkmoon Bow:Bows:N/A Range 50:80:80:0:0:100:7:16:0:16:400
+Dragonslayer Greatbox:Greatbows:N/A Range 50:90:0:0:0:100:20:20:0:0:100
+Gough's Greatbow:Greatbows:N/A Range 55:85:0:0:0:100:27:20:0:0:100
+Light Crossbow:Crossbows:N/A Range 50:50:0:0:0:100:10:8:0:0:150
+Heavy Crossbow:Crossbows:N/A Range 50:55:0:0:0:100:14:8:0:0:150
+Sniper Crossbow:Crossbows:N/A Range 70:52:0:0:0:100:20:16:0:0:150
+Avelyn:Crossbows:N/A Range 50:37:0:0:0:100:16:14:0:0:150
+Pyromancy Flame:Flames:Strike:0:100:40:0:0:4:0:0:0:0
+Pyromancy Flame (Upgraded):Flames:Strike:0:230:60:0:0:4:0:0:0:0
+Sorcerer's Catalyst:Catalyst:Strike:40:0:0:0:100:6:0:10:0:90
+Izalith Catalyst:Catalyst:Strike:40:0:0:0:100:6:0:14:0:300
+Logan's Catalyst:Catalyst:Strike:46:0:0:0:100:6:0:24:0:90
+Beatrice's Catalyst:Catalyst:Strike:40:0:0:0:100:6:0:10:0:90
+Oolacile Ivory Catalyst:Catalyst:Strike:40:0:0:0:100:3:0:12:0:30
+Demon's Catalyst:Catalyst:Thrust:110:0:170:0:100:12:10:10:0:300
+Tin Banishment Catalyst:Catalyst:Thrust:145:0:0:0:100:10:10:12:0:160
+Tin Crystallization Catalyst:Catalyst:Thrust:240:0:0:0:100:7:0:32:0:90
+Tin Darkmoon Catalyst:Catalyst:Strike:44:0:0:0:100:4:0:0:16:60
+Oolacile Catalyst:Catalyst:Strike:40:0:0:0:100:6:0:10:0:55
+Manus Catalyst:Catalyst:Strike:190:0:0:0:100:14:0:13:0:60
+Talisman:Talisman:Strike:14:0:0:0:100:4:0:0:10:50
+Canvas Talisman:Talisman:Strike:14:0:0:0:100:4:0:0:14:50
+Thorolund Talisman:Talisman:Strike:14:0:0:0:100:4:0:0:10:50
+Ivory Talisman:Talisman:Strike:14:0:0:0:100:4:0:0:16:50
+Sunlight Talisman:Talisman:Strike:14:0:0:0:100:4:0:0:14:50
+Velka's Talisman:Talisman:Strike:14:0:0:0:100:4:0:16:0:50
+Darkmoon Talisman:Talisman:Strike:14:0:0:0:100:4:0:0:24:50
+Gwynever's Talisman:Talisman:N/A:0:0:0:0:0:0:0:0:0:0
